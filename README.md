@@ -12,7 +12,7 @@ and Socket.io's Slack page.
 This project supports Heroku, Azure, Cloud Foundry, Amazon Web Services (AWS), and [ic.dev](https://ic.dev).
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-[![Deploy to Azure](https://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FBcnRust%2Fslack-invite-automation%2Fmaster%2Fazuredeploy.json)
 
 ## Settings
 
